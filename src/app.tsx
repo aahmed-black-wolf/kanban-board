@@ -1,8 +1,7 @@
-import React from 'react'
-import { BoardPage } from './pages/board-page'
+import { BoardPage } from "./pages/board-page";
 
 function App() {
-  return <BoardPage />
+  return <BoardPage />;
 }
 
-export default App
+export default App;
